@@ -20,6 +20,8 @@ node.js and inquirer
 
 ## Usage:
 use your terminal
+![Screenshot](assets/img/screenshot.jpg)
+https://youtu.be/0uYN0Zq7q9s
 
 ## License:
 MIT
