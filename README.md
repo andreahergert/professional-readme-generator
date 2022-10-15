@@ -1,34 +1,34 @@
 # Professional README Generator
 
-    ## Licensing:
-      [![license](https://img.shields.io/badge/license-undefined-blue)](https://shields.io)
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-    ## Table of Contents 
-      - [Description](#description)
-      - [Installation](#installation)
-      - [Usage](#usage)
-      - [Contribution](#contribution)
-      - [Testing](#testing)
-      - [Additional Info](#additional-info)
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
 
-    ## Description:
-      This is a professional readme generator where users can run the file using node.js in the terminal to create a professional readme
+## Description:
+This is a professional README generator
 
-    ## Installation:
-      You will need node.js and the inquirer package.
+## Installation:
+node.js and inquirer
 
-    ## Usage:
-      watch the video
+## Usage:
+use your terminal
 
-    ## License:
-      undefined
+## License:
+MIT
 
-    ## Contribution:
-      just fork it
+## Contribution:
+any.  there was already starter code for this.
 
-    ## Testing:
-      none
+## Testing:
+test locally
 
-    ## Additional Info:
-      - Github: [andreahergert](https://github.com/andreahergert)
-      - Email: ahergert24@hotmail.com 
+## Additional Info:
+- Github: [andreahergert](https://github.com/andreahergert)
+- Email: ahergert24@hotmail.com 
