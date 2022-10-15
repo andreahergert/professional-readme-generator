@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## Description:
-This is a professional README generator created in the UW Coding Bootcamp that should save a user time with starting a readme file.  This generator will produce a READMEdemo.md file.  After initial generation, you may change the name of the file to README.md and make any updates in the file.
+This is a professional README generator created in the UW Coding Bootcamp that should save a user time with starting a readme file.  This generator will produce a READMEdemo.md file.  After initial generation, you may change the name of the file to README.md and make any updates in the file itself.
 
 ## Installation:
 - Download it through Github
