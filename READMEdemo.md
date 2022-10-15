@@ -1,4 +1,4 @@
-# Testing My Project Title
+# Testing project title
 
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -7,12 +7,13 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Description:
-Testing Description
+Testing description
 
 ## Installation:
 Testing installation
@@ -27,7 +28,7 @@ MIT
 Testing contribution
 
 ## Tests:
-Testing testing
+Testing test
 
 ## Questions:
 - Github: [andreahergert](https://github.com/andreahergert)
