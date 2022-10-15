@@ -1,4 +1,4 @@
-# Generator
+# Testing My Project Title
 
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -7,28 +7,28 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
-- [Testing](#testing)
-- [Additional Info](#additional-info)
+- [Contribution](#contributing)
+- [Testing](#tests)
+- [Additional Info](#questions)
 
 ## Description:
-test description
+This is a professional README generator
 
 ## Installation:
-test installation
+node.js and inquirer package
 
 ## Usage:
-test usage
+use node.js
 
 ## License:
 MIT
 
-## Contribution:
+## Contributing:
 test contribution
 
-## Testing:
+## Tests:
 test test
 
-## Additional Info:
+## Questions:
 - Github: [andreahergert](https://github.com/andreahergert)
 - Email: ahergert24@hotmail.com 

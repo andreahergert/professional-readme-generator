@@ -66,15 +66,3 @@ inquirer
       err ? console.log(err) : console.log('Successfully created READMEdemo.md!')
     );
   });
-
-
-// // TODO: Create a function to initialize app
-// function init() {
-//   inquirer.prompt(questions)
-//   .then(function (userInput) {
-//       console.log(userInput)
-//       writeToFile("READMEdemo.md", generateMarkdown(userInput));
-//   });
-// };
-
-// // Function call to initialize app

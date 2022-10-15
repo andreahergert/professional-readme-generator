@@ -7,9 +7,9 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
-- [Testing](#testing)
-- [Additional Info](#additional-info)
+- [Contribution](#contributing)
+- [Testing](#tests)
+- [Additional Info](#questions)
 
 ## Description:
 This is a professional README generator
@@ -23,12 +23,12 @@ use your terminal
 ## License:
 MIT
 
-## Contribution:
+## Contributing:
 any.  there was already starter code for this.
 
-## Testing:
+## Tests:
 test locally
 
-## Additional Info:
+## Questions:
 - Github: [andreahergert](https://github.com/andreahergert)
 - Email: ahergert24@hotmail.com 
