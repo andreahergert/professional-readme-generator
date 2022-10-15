@@ -13,24 +13,44 @@
 - [Questions](#questions)
 
 ## Description:
-This is a professional README generator
+This is a professional README generator created in the UW Coding Bootcamp that should save a user time with starting a readme file.  This generator will produce a READMEdemo.md file.  After initial generation, you may change the name of the file to README.md and make any updates in the file.
 
 ## Installation:
-node.js and inquirer
+- Download it through Github
+- Ensure inquirer is installed
 
 ## Usage:
-use your terminal
+- Open terminal and navigate to correct folder
+- Type 'node index.js'
+- Answer the prompts that follow
+- On success a READMEdemo.md will be generated.
+- After initial generation, you may change the name of the file to README.md and make any updates in the file.
+
+Screenshot:
+
 ![Screenshot](assets/img/screenshot.jpg)
+
+Link to Video of Walkthrough for Demonstration:
+
 https://youtu.be/0uYN0Zq7q9s
 
 ## License:
 MIT
 
 ## Contributing:
-any.  there was already starter code for this.
+There was already a starter code provided for this project here: https://github.com/coding-boot-camp/potential-enigma (which is why your see contributors listed in the repo).
+
+Contributions are welcome through forking my repository.
 
 ## Tests:
-test locally
+To test locally on your computer:
+- Download it through Github
+- Ensure inquirer is installed
+- Open terminal and navigate to correct folder
+- Type 'node index.js'
+- Answer the prompts that follow
+- On success a READMEdemo.md will be generated.
+- After initial generation, you may change the name of the file to README.md and make any updates in the file.
 
 ## Questions:
 - Github: [andreahergert](https://github.com/andreahergert)
