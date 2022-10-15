@@ -9,9 +9,9 @@ function generateMarkdown(data) {
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contributing)
-- [Testing](#tests)
-- [Additional Info](#questions)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description:
 ${data.description}

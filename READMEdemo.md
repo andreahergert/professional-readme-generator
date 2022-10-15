@@ -7,27 +7,27 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contributing)
-- [Testing](#tests)
-- [Additional Info](#questions)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description:
-This is a professional README generator
+Testing Description
 
 ## Installation:
-node.js and inquirer package
+Testing installation
 
 ## Usage:
-use node.js
+Testing usage
 
 ## License:
 MIT
 
 ## Contributing:
-test contribution
+Testing contribution
 
 ## Tests:
-test test
+Testing testing
 
 ## Questions:
 - Github: [andreahergert](https://github.com/andreahergert)
