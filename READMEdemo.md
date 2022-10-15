@@ -1,34 +1,34 @@
-# testing title
+# Generator
 
-    ## Licensing:
-      [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-    ## Table of Contents 
-      - [Description](#description)
-      - [Installation](#installation)
-      - [Usage](#usage)
-      - [Contribution](#contribution)
-      - [Testing](#testing)
-      - [Additional Info](#additional-info)
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
 
-    ## Description:
-      testing description
+## Description:
+test description
 
-    ## Installation:
-      testing installation
+## Installation:
+test installation
 
-    ## Usage:
-      testing usage
+## Usage:
+test usage
 
-    ## License:
-      MIT
+## License:
+MIT
 
-    ## Contribution:
-      testing contribution
+## Contribution:
+test contribution
 
-    ## Testing:
-      testing instructions
+## Testing:
+test test
 
-    ## Additional Info:
-      - Github: [andreahergert](https://github.com/andreahergert)
-      - Email: ahergert24@hotmail.com 
+## Additional Info:
+- Github: [andreahergert](https://github.com/andreahergert)
+- Email: ahergert24@hotmail.com 
