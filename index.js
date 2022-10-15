@@ -38,7 +38,7 @@ inquirer
     },
     {
         type: 'list',
-        name: 'license',
+        name: 'licensing',
         message: 'What license would you like to use for your project?',
         choices: ["MIT", "ISC", "Apache", "GPL", "BSD", "None"],
     },
@@ -62,8 +62,8 @@ inquirer
     const readmePageContent = generateMarkdown(answers);
 
 // function to write README file
-    fs.writeFile('README.md', readmePageContent, (err) =>
-      err ? console.log(err) : console.log('Successfully created README.md!')
+    fs.writeFile('READMEdemo.md', readmePageContent, (err) =>
+      err ? console.log(err) : console.log('Successfully created READMEdemo.md!')
     );
   });
 
@@ -73,7 +73,7 @@ inquirer
 //   inquirer.prompt(questions)
 //   .then(function (userInput) {
 //       console.log(userInput)
-//       writeToFile("README.md", generateMarkdown(userInput));
+//       writeToFile("READMEdemo.md", generateMarkdown(userInput));
 //   });
 // };
 
